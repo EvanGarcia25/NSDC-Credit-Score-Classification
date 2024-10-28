@@ -2,7 +2,7 @@
 
 ### dataset: https://www.kaggle.com/datasets/parisrohan/credit-score-classification
 
-### Conducted lassfification project that predicts whether an account's credit score is Poor, Standard, and Good in Python
+### Conducted classfification project that predicts whether an account's credit score is Poor, Standard, or Good in Python
 ### Understood data by Seaborn, Matplotlib, Pandas, and statsmodels.Logit
 ### Utilized Graident boosting and random forest algorithm from scikit-learn and achieved around 89% accuracy in both models
 ### Evaluated models by confusion matrix and overall accuracy
